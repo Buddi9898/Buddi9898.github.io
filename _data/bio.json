@@ -1,0 +1,74 @@
+{
+  "basics": {
+    "name": "Lakshmi Julakanti",
+    "label": "Data Engineer",
+    "picture": "img/molly-maluhia.jpeg",
+    "email": "lakshmijulakanti.98@gmail.com",
+    "phone": "5138865791",
+    "website": "https://buddi9898.github.io",
+    "summary": "I am studying Master of Science in Big Data Analytics in the Department of Computer Sciences at the University of  Central Missori. I expect to graduate in Fall, 2022.",
+    "location": { "address": "", "postalCode": "45040", "city": "Mason", "countryCode": "USA", "region": "Ohio" },
+    "profiles": [
+      { "network": "github", "username": "buddi9898", "url": "https://github.com/Buddi9898" },
+      { "network": "linkedin", "username": "buddi9898", "url": "http://linkedin.com/in/changeme" },
+    ]
+  },
+  "interests": [
+    { "name": "Data pipelines" },
+    { "name": "Cloud Computing" },
+    { "name": "Quantum Computing" },
+    { "name": "AWS" },
+    { "name": "GCP" }
+  ],
+  "skills": [
+    {
+      "name": "Languages and Frameworks",
+      "keywords": [ "C", "C++", "Java", "Javascript", "Python", "Scala" ]
+    },
+    {
+      "name": "Toolsets/OS",
+      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub" ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Central Missouri, Kansas",
+      "area": "Computer Science (expected Fall, 2022)",
+      "studyType": "Masters in Big Data Analytics",
+      "startDate": "2021-08-16",
+      "endDate": "Present",
+      "courses": [
+        "Data Resource Management", "Business Intelligence", "Project Management"
+      ]
+    }
+  ],
+  "work": [
+    {
+      "company": "Snowstack LLC",
+      "position": "Data Engineer",
+      "website": "",
+      "startDate": "2022-08-15",
+      "endDate": "Present",
+      "summary": "Working as Data Engineer",
+      "highlights": [
+    "Creation and maintenance of optimum data pipeline architecture for ingestion, processing of data",
+    "Work in sync with internal and external team members like data architects, data scientists, data analysts to handle all sorts of technical issues",
+    "Data processing with newer tools that help in data management from disparate sources",
+    "Integration of data management processes into the organization’s current structure"
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "title": "Under graduate Scholarship",
+      "date": "2015-2019",
+      "awarder": "JNTU KAKINADA",
+      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0."
+    }
+  ],
+  "references": [
+    {
+      "name": "Available upon request"
+    }
+  ]
+}
